@@ -38,11 +38,7 @@ Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Ro
   
   username=FlorenciaMarcos&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/FlorenciaMarcos)
 
- "https://github-readme-stats.vercel.app/api/top-langs?username=FlorenciaMarcos&theme=algolia&show_icons=true) [  alt="FlorenciaMarcos" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorenciaMarcos&&theme=algolia&show_icons=true" alt="FlorenciaMarcos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FlorenciaMarcos&" alt="FlorenciaMarcos" /></p>
+ 
   
 ## 📫 Cómo ponerse en contacto conmigo: 
 </br>
