@@ -2,10 +2,10 @@
 <br/>
 <h1 align="center"> ¡Hola! Bienvenido a mi perfil!  :smiley:!</h1>
 
- <h1 align="center">![girl01](https://user-images.githubusercontent.com/82724532/177223697-f5e3bacf-620d-423f-9569-5aa94e8af183.png)</h1>
+![girl01](https://user-images.githubusercontent.com/82724532/177223697-f5e3bacf-620d-423f-9569-5aa94e8af183.png)
 
 
-<h1 align="center">👋¡Hola! Mi nombre es Flor, soy de Córdoba,Argentina y soy Desarrollador Web Full Stack!</h1>
+👋¡Hola! Mi nombre es Flor, soy de Córdoba,Argentina y soy Desarrollador Web Full Stack!
 En 2022 me introduje de lleno en la programación y descubrí mi pasión por el desarrollo web, además de los stacks tecnológicos adquirí habilidades de aprendizaje continuo, a enfrentarme día a día con nuevos desafíos y a trabajar en equipo.
 
 
