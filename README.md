@@ -33,10 +33,10 @@ Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Ro
 
 ## 📊 Mira mis estadisticas
 
-<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api?username=FlorenciaMarcos&theme=algolia&show_icons=true)](https://github.com/FlorenciaMarcos) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=FlorenciaMarcos&theme=algolia&show_icons=true)](https://github.com/FlorenciaMarcos) 
 
  
-<p align="left"> <a href=  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaMarcos&theme=algolia&show_icons=true)/></a> </p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaMarcos&theme=algolia&show_icons=true)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=FlorenciaMarcos&theme=algolia&show_icons=true" alt="FlorenciaMarcos" /> </p>
 
