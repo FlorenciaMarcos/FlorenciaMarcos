@@ -33,7 +33,7 @@ Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Ro
 
 ## 📊 Mira mis estadisticas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
+<p><img align="center" src="" alt="" /></p>
 
 ## 📫 Cómo ponerse en contacto conmigo: 
 </br>
