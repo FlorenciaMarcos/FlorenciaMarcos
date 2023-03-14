@@ -33,7 +33,7 @@ Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Ro
 
 ## 📊 Mira mis estadisticas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FlorenciaMarcos &theme=dracula)(https://github.com/FlorenciaMarcos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=FlorenciaMarcos&theme=algolia&show_icons=true)](https://github.com/FlorenciaMarcos)
 
 ## 📫 Cómo ponerse en contacto conmigo: 
 </br>
