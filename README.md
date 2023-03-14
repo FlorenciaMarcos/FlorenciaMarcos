@@ -6,8 +6,11 @@
 
 
 👋¡Hola! Mi nombre es Flor, soy de Córdoba,Argentina y soy Desarrollador Web Full Stack!
-En 2022 me introduje de lleno en la programación y descubrí mi pasión por el desarrollo web, además de los stacks tecnológicos adquirí habilidades de aprendizaje continuo, a enfrentarme día a día con nuevos desafíos y a trabajar en equipo.
 
+En 2022 me introduje de lleno en la programación y descubrí mi pasión por el desarrollo web, además de los stacks tecnológicos adquirí habilidades de aprendizaje continuo, me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplicaciones web, utilizando mis habilidades en HTML, CSS, JavaScript y React. ¡Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas habilidades y conocimientos para poder brindar mis conocimientos actualizados!
+
+
+Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Router, Styled Components,Node JS, Express, Sequelize, PostgreSQL.
 
 <h3 align="left">Languages and Tools:</h3>
 
