@@ -31,16 +31,16 @@ Actualmente ,mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, React-Ro
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="12%"/> </a> 
 
 
-## 📊 Take a look in my stats
+## 📊 Mira mis estadisticas
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
 
-## 📫 How to reach me: 
+## 📫 Cómo ponerse en contacto conmigo: 
 </br>
-<a href="mailto:cflorcita.6221@gmail.com" target="_blank">
+<a href="mailto:florcita.6221@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
 </a>
-<a href="https://www.linkedin.com/in/florencia-alexandra-marcos/" target="_blank"> 
+<a href="https://www.linkedin.com/in/florencia-alexandra-marcos-287063239" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 </br>
