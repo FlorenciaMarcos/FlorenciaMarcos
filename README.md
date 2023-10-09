@@ -5,7 +5,7 @@
 ![girl01](https://user-images.githubusercontent.com/82724532/177223697-f5e3bacf-620d-423f-9569-5aa94e8af183.png)
 
 
-👋¡Hola! Mi nombre es Flor, soy de Córdoba,Argentina y soy Desarrollador Web Full Stack!
+👋¡Hola! Mi nombre es Flor y soy Desarrolladora Web Full Stack!
 
 En 2022 me introduje de lleno en la programación y descubrí mi pasión por el desarrollo web, además de los stacks tecnológicos adquirí habilidades de aprendizaje continuo, me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplicaciones web, utilizando mis habilidades en HTML, CSS, JavaScript y React. ¡Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas habilidades y conocimientos para poder brindar mis conocimientos actualizados!
 
